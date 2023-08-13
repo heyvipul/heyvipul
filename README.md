@@ -3,13 +3,21 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=700&height=50">
 </p>
-<img align="right" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Coding">
+<img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyvipul&label=Profile%20views&color=0e75b6&style=flat" alt="heyvipul" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vipulgirhe" target="blank"><img src="https://img.shields.io/twitter/follow/vipulgirhe?logo=twitter&style=for-the-badge" alt="vipulgirhe" /></a> </p>
+<h1>About Me</h1>
+  <p>👋 Hi, I'm Vipul Girhe, a passionate developer exploring the MERN (MongoDB, Express.js, React, Node.js) Tech stack.</p>
+  
+  <h2>🚀 My Journey</h2>
+  <p>I love web development and find the MERN stack fascinating for its versatility in building full-stack applications with JavaScript.</p>
+  
+  <h2>🎯 My Goals</h2>
+  <p>My goal is to become a proficient MERN stack developer and create impactful web applications.</p>
+  <hr>
 
-- 🔭 I’m currently working on **upSkilling myself!**
+- 🔭 I’m currently working on **upskilling myself!**
 
 - 🌱 I’m currently learning **React.js, Node.js, Database**
 
@@ -18,6 +26,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1W_2xkLS9D1GOXUnipVEqfxGp83I-p93d/view?usp=sharing](https://drive.google.com/file/d/1W_2xkLS9D1GOXUnipVEqfxGp83I-p93d/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://twitter.com/vipulgirhe" target="blank"><img src="https://img.shields.io/twitter/follow/vipulgirhe?logo=twitter&style=for-the-badge" alt="vipulgirhe" /></a> </p>
 <p align="left">
 <a href="https://twitter.com/vipulgirhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vipulgirhe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vipul girhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipul girhe" height="30" width="40" /></a>
