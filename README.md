@@ -1,22 +1,37 @@
-<h1 align="center">Hi  👋 I'm Vipul Girhe</h1>
-<h3 align="center">Aspiring web developer dedicated to mastering the Art of Web Development</h3>
-<img  align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> 
+[![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)](https://heyvipul.io)
+<h1 align="center">Hi 👋, I'm Vipul Girhe</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=700&height=50">
+</p>
+<img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyvipul&label=Profile%20views&color=0e75b6&style=flat" alt="heyvipul" /> </p>
 
+<h1>About Me</h1>
+  <p>👋 Hi, I'm Vipul Girhe, a passionate developer exploring the MERN (MongoDB, Express.js, React, Node.js) Tech stack.</p>
+  
+  <h2>🚀 My Journey</h2>
+  <p>I love web development and find the MERN stack fascinating for its versatility in building full-stack applications with JavaScript.</p>
+  
+  <h2>🎯 My Goals</h2>
+  <p>My goal is to become a proficient MERN stack developer and create impactful web applications.</p>
+  <hr>
 
+- 🔭 I’m currently working on *upskilling myself!*
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning *React.js, Node.js, Database*
 
-- 💬 Ask me about **REACT.JS NODE.JS JAVASCRIPT....**
+- 📫 How to reach me *vipulgirhestar@gmail.com*
 
-- 📫 How to reach me **vipulgirhestar@gmail.com**
-- Portfolio - https://heyvipul.github.io/
+- 📄 Know about my experiences [https://drive.google.com/file/d/1N09JQvxlfTUf83YdYxhENpZ5gtlUagpO/view](https://drive.google.com/file/d/1N09JQvxlfTUf83YdYxhENpZ5gtlUagpO/view)
+- My Portfolio :  https://heyvipul.github.io/
 
- 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://twitter.com/vipulgirhe" target="blank"><img src="https://img.shields.io/twitter/follow/vipulgirhe?logo=twitter&style=for-the-badge" alt="vipulgirhe" /></a> </p>
 <p align="left">
-<a href="https://www.linkedin.com/in/vipul-girhe-237511231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heyvipul" height="30" width="40" /></a>
+<a href="https://twitter.com/vipulgirhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vipulgirhe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vipul girhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipul girhe" height="30" width="40" /></a>
+<a href="https://instagram.com/heyvipulll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyvipulll" height="30" width="40" /></a>
 </p>
  <br/><br/>
 
