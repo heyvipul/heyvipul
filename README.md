@@ -1,5 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)](https://heyvipul.io)
-<h1 align="center">Hi 👋, I'm Vipul Girhe</h1>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Vipul Girhe! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=700&height=50">
 </p>
@@ -7,24 +6,39 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyvipul&label=Profile%20views&color=0e75b6&style=flat" alt="heyvipul" /> </p>
 
-<h1>About Me</h1>
-  <p>👋 Hi, I'm Vipul Girhe, a passionate developer exploring the MERN (MongoDB, Express.js, React, Node.js) Tech stack.</p>
-  
-  <h2>🚀 My Journey</h2>
-  <p>I love web development and find the MERN stack fascinating for its versatility in building full-stack applications with JavaScript.</p>
-  
-  <h2>🎯 My Goals</h2>
-  <p>My goal is to become a proficient MERN stack developer and create impactful web applications.</p>
-  <hr>
-
-- 🔭 I’m currently working on *upskilling myself!*
-
-- 🌱 I’m currently learning *React.js, Node.js, Database*
+- 🌱 I’m currently exploring *Full Stack Web Development*
 
 - 📫 How to reach me *vipulgirhestar@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1N09JQvxlfTUf83YdYxhENpZ5gtlUagpO/view](https://drive.google.com/file/d/1N09JQvxlfTUf83YdYxhENpZ5gtlUagpO/view)
-- My Portfolio :  https://heyvipul.github.io/
+  
+- Portfolio :  https://heyvipul.github.io/
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+
+```javascript
+const vipul = {
+    pronouns: "He" | "Him" ,
+    code: ["JavaScript", "HTML", "CSS", "TypeScript"],
+    askMeAbout: ["web development", "MERN stack", "RESTful APIs", "React", "Node.js"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Redux"],
+            css: ["Bootstrap", "Styled Components"],
+            others: ["Responsive Design", "Material-UI"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            database: ["MongoDB"]
+        },
+    },
+    tools: ["Git", "VS Code", "Postman", "MongoDB Compass"],
+    architecture: ["Single Page Applications"],
+    currentFocus: "Building scalable and efficient web applications with MERN stack",
+    funFact: "Debugging is like being the detective in a crime movie where you are also the murderer."
+};
+
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/vipulgirhe" target="blank"><img src="https://img.shields.io/twitter/follow/vipulgirhe?logo=twitter&style=for-the-badge" alt="vipulgirhe" /></a> </p>
