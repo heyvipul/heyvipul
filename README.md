@@ -24,8 +24,8 @@ const vipul = {
     technologies: {
         frontEnd: {
             js: ["React", "Redux"],
-            css: ["Bootstrap", "Styled Components"],
-            others: ["Responsive Design", "Material-UI"]
+            css: ["Tailwind Css", "Styled Components"],
+            others: ["Responsive Design"]
         },
         backEnd: {
             js: ["Node", "Express"],
