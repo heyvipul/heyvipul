@@ -45,7 +45,7 @@ const vipul = {
 <p align="left">
 <a href="https://twitter.com/vipulgirhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vipulgirhe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vipul girhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipul girhe" height="30" width="40" /></a>
-<a href="https://instagram.com/heyvipulll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyvipulll" height="30" width="40" /></a>
+<a href="https://www.instagram.com/heyvipulll___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyvipulll" height="30" width="40" /></a>
 </p>
  <br/><br/>
 
