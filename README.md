@@ -63,7 +63,7 @@ const vipul = {
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />
     <img src="https://img.shields.io/badge/java-%234ea94b.svg?style=for-the-badge&logo=java&logoColor=white" alt="mongoDB" />
-  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="chakra-ui" />
+<!--   <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="chakra-ui" /> -->
 </p>
 
 <h3><i>Tools | Use</i></h3>
