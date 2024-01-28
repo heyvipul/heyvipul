@@ -20,7 +20,7 @@
 const vipul = {
     pronouns: "He" | "Him" ,
     code: ["JavaScript", "HTML", "CSS", "TypeScript"],
-    askMeAbout: ["web development", "MERN stack", "RESTful APIs", "React", "Node.js",Next.js],
+    askMeAbout: ["web development", "MERN stack", "RESTful APIs", "React", "Node.js","Next.js"],
     technologies: {
         frontEnd: {
             js: ["React", "Redux"],
