@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyvipul&label=Profile%20views&color=0e75b6&style=flat" alt="heyvipul" /> </p>
 
-- 🌱 I’m currently exploring *Full Stack Web Development*
+- 🌱 I’m currently exploring *MERN STACK*
 
 - 📫 How to reach me *vipulgirhestar@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N09JQvxlfTUf83YdYxhENpZ5gtlUagpO/view](https://drive.google.com/file/d/1N09JQvxlfTUf83YdYxhENpZ5gtlUagpO/view)
+- 📄 Know about my experiences *https://drive.google.com/file/d/16DpGcKD9DzpAwN0Mbk9CXVe6K-cax4Ba/view?usp=sharing*
   
 - Portfolio :  https://heyvipul.vercel.app/
 
