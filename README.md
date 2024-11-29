@@ -19,20 +19,20 @@
 ```javascript
 const vipul = {
     pronouns: "He" | "Him" ,
-    code: ["JavaScript", "HTML", "CSS", "TypeScript"],
-    askMeAbout: ["web development", "MERN stack", "RESTful APIs", "React", "Node.js","Next.js"],
+    code: ["JavaScript", "HTML", "CSS", "TypeScript","Java"],
+    askMeAbout: ["Web development", "MERN stack","MEAN stack", "RESTful APIs", "React", "Node.js","Express.js","Next.js"],
     technologies: {
         frontEnd: {
-            js: ["React", "Redux"],
+            js: ["React", "Redux","NextJs"],
             css: ["Tailwind Css", "Styled Components"],
             others: ["Responsive Design"]
         },
         backEnd: {
             js: ["Node", "Express"],
-            database: ["MongoDB"]
+            database: ["MySql","PostgreSql","MongoDB"]
         },
     },
-    tools: ["Git", "VS Code", "Postman", "MongoDB Compass"],
+    tools: ["Git", "VS Code", "Postman", "MongoDB Compass","MySql Workbench","Jenkins","Jira"],
     architecture: ["Single Page Applications"],
     currentFocus: "Building scalable and efficient web applications with MERN stack",
     funFact: "Debugging is like being the detective in a crime movie where you are also the murderer."
